@@ -1,1 +1,1 @@
-# SDSC
+# book lending management system
